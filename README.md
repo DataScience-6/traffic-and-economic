@@ -6,17 +6,17 @@ Project Structure
 
 3. Source code&Dataset
 - 00_Data(folder)
-	-Integrated_data (final_v)
-		Fully_integrated_data
-		integration_b()
-	-Original_data
-	-Transformed_data
-  -01_Data Preprocssing Source file
-  -01-2_Data Preprocessing(after integration)
-  -02_Correlation and Visualization
-  -03_Data analysis&Algorithm
-  -04_Evoluation
-4. Peer review
+	-Integrated_data (final_v)<br>
+		Fully_integrated_data<br>
+		integration_b()<br>
+	-Original_data<br>
+	-Transformed_data<br>
+  -01_Data Preprocssing Source file<br>
+  -01-2_Data Preprocessing(after integration)<br>
+  -02_Correlation and Visualization<br>
+  -03_Data analysis&Algorithm<br>
+  -04_Evoluation<br>
+4. Peer review<br>
 -Peer review
 
 Others...
