@@ -23,4 +23,4 @@ Others...
 Github link
 https://github.com/DataScience-6/traffic-and-economic<br>
 Kaggle link
-
+https://www.kaggle.com/code/sleepingbag21/datascience6-economic-rate-and-traffic
