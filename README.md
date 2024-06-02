@@ -21,6 +21,6 @@ Project Structure
 
 Others...
 Github link
-https://github.com/DataScience-6/traffic-and-economicrate
+https://github.com/DataScience-6/traffic-and-economic<br>
 Kaggle link
 
